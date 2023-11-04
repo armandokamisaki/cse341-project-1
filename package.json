@@ -1,0 +1,19 @@
+{
+  "name": "cse341-project-1",
+  "version": "1.0.0",
+  "description": "Project 1 for CSE 341 class",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandokamisaki/cse341-project-1.git"
+  },
+  "author": "Armando Kamisaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armandokamisaki/cse341-project-1/issues"
+  },
+  "homepage": "https://github.com/armandokamisaki/cse341-project-1#readme"
+}
