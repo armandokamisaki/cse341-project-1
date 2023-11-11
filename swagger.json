@@ -5,7 +5,7 @@
     "description": "Contacts api",
     "version": "1.0.0"
   },
-  "host": "https://project1-hkfl.onrender.com",
+  "host": "project1-hkfl.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
